@@ -58,9 +58,8 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="SmartThreadPool, Version=1.0.2235.39078, Culture=neutral, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\SmartThreadPool.dll</HintPath>
+    <Reference Include="SmartThreadPool">
+      <HintPath>..\..\lib\SmartThreadPool.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Data" />
